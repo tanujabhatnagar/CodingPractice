@@ -1,11 +1,13 @@
+//Assuming Capital and Small letter to be same character
+//Bruteforce Approach
+
 package dsaArraysNStrings;
 
 public class Solution3 {
 	boolean isUnique(String str) {
 		for(int i=0;i<str.length();i++) {
-			char c=str.charAt(i);
 		for(int j=i;i<str.length();i++) {
-			if(str.charAt(j)==c) return false;
+			if(str.charAt(j)==str.charAt(i)) return false;
 		}
 		}
 		return true;
