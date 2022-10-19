@@ -6,10 +6,9 @@ I took reference from the book Cracking the Coding Interview. This readme file i
 
 It includes various topics like:
 ### Data Structures
-- Arrays
+- Arrays and Strings
   - Implement an algorithm to determine if a string has all the unique characters.What if you cannot use additional data structures? 
   - Given two strings, write a method to determine if one is a permutation of the other.
-- Strings
 - Linked Lists
 - Stacks
 - Queues
