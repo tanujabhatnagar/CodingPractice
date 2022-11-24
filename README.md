@@ -14,6 +14,7 @@ It includes various topics like:
   - Reverse Integer
   - Reverse String
 - Linked Lists
+  - Reverse a Linked List 
 - Stacks
 - Queues
 - Trees
