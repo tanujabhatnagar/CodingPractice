@@ -13,6 +13,7 @@ It includes various topics like:
   - Given two strings, write a method to determine if one is a permutation of the other.
   - Reverse Integer
   - Reverse String
+  - Move zeroes to the end of array 
 - Linked Lists
   - Reverse a Linked List 
 - Stacks
